@@ -1,0 +1,101 @@
+shipment_id,order_date,load_time,departure_time,estimated_arrival,actual_arrival,carrier,route,distance_km,vehicle_type,delay_minutes,delayed,customer_comment,sentiment
+1,2025-06-02,09:45:00,10:13:00,22:47:00,22:43:00,J&T,Jakarta–Yogyakarta,795,Motorbike,-4,0,Paket datang seperti biasanya,neutral
+2,2025-06-10,06:14:00,06:34:00,12:23:00,13:53:00,TIKI,Jakarta–Bekasi,285,Truck,90,1,Buruk sekali pelayanannya,negative
+3,2025-06-05,08:43:00,08:56:00,16:17:00,17:14:00,JNE,Jakarta–Yogyakarta,403,Truck,57,1,Paket lama sekali sampai,negative
+4,2025-06-02,09:41:00,10:04:00,11:29:00,11:33:00,J&T,Jakarta–Semarang,92,Motorbike,4,1,Tidak ada masalah berarti,neutral
+5,2025-06-06,09:34:00,09:51:00,00:39:00,01:47:00,JNE,Jakarta–Yogyakarta,696,Van,68,1,Terlambat tanpa alasan jelas,negative
+6,2025-06-08,08:11:00,08:32:00,15:39:00,16:54:00,JNE,Jakarta–Bandung,336,Motorbike,75,1,Sangat tidak puas dengan jasa kirimnya,negative
+7,2025-06-02,07:44:00,08:01:00,19:07:00,18:51:00,Pos Indonesia,Semarang–Medan,624,Van,-16,0,"Paket cepat sampai, terima kasih!",positive
+8,2025-06-06,07:20:00,07:46:00,22:53:00,23:48:00,TIKI,Jakarta–Bandung,816,Van,55,1,Terlambat tanpa alasan jelas,negative
+9,2025-06-11,08:47:00,09:02:00,17:58:00,18:44:00,TIKI,Jakarta–Bandung,554,Truck,46,1,Kecewa dengan keterlambatan ini,negative
+10,2025-06-09,06:40:00,06:57:00,20:54:00,20:40:00,JNE,Bandung–Surabaya,838,Van,-14,0,Pengiriman aman dan cepat,positive
+11,2025-06-07,08:36:00,09:05:00,18:11:00,19:13:00,SiCepat,Bandung–Surabaya,457,Van,62,1,Terlambat tanpa alasan jelas,negative
+12,2025-06-03,08:54:00,09:04:00,19:25:00,19:13:00,J&T,Bandung–Surabaya,630,Truck,-12,0,Pengiriman aman dan cepat,positive
+13,2025-06-03,06:00:00,06:19:00,07:00:00,07:18:00,J&T,Semarang–Medan,45,Motorbike,18,1,Paket datang seperti biasanya,neutral
+14,2025-06-06,09:03:00,09:28:00,14:44:00,15:13:00,TIKI,Jakarta–Yogyakarta,283,Van,29,1,Tidak ada masalah berarti,neutral
+15,2025-06-05,09:52:00,10:09:00,14:11:00,15:33:00,Pos Indonesia,Jakarta–Semarang,236,Motorbike,82,1,Kecewa dengan keterlambatan ini,negative
+16,2025-06-03,06:27:00,06:54:00,20:21:00,21:07:00,J&T,Semarang–Medan,719,Truck,46,1,Kecewa dengan keterlambatan ini,negative
+17,2025-06-06,09:16:00,09:40:00,15:36:00,16:04:00,J&T,Semarang–Medan,311,Van,28,1,Tidak ada masalah berarti,neutral
+18,2025-06-01,07:20:00,07:45:00,12:56:00,14:25:00,TIKI,Jakarta–Bandung,313,Truck,89,1,Sangat tidak puas dengan jasa kirimnya,negative
+19,2025-06-02,06:29:00,06:46:00,10:14:00,10:09:00,Pos Indonesia,Semarang–Medan,193,Motorbike,-5,0,Standar pengiriman OK,neutral
+20,2025-06-01,07:17:00,07:28:00,11:08:00,11:40:00,TIKI,Jakarta–Yogyakarta,208,Motorbike,32,1,Terlambat tanpa alasan jelas,negative
+21,2025-06-04,09:15:00,09:40:00,00:57:00,02:15:00,TIKI,Semarang–Medan,840,Motorbike,78,1,Terlambat tanpa alasan jelas,negative
+22,2025-06-11,07:26:00,07:43:00,18:49:00,18:30:00,JNE,Jakarta–Bekasi,694,Truck,-19,0,Pengiriman aman dan cepat,positive
+23,2025-06-07,09:42:00,10:01:00,22:33:00,22:32:00,TIKI,Jakarta–Yogyakarta,707,Motorbike,-1,0,Sudah diterima sesuai jadwal,neutral
+24,2025-06-06,09:21:00,09:38:00,17:40:00,18:05:00,TIKI,Bandung–Surabaya,498,Motorbike,25,1,Tidak ada masalah berarti,neutral
+25,2025-06-10,09:26:00,09:54:00,19:28:00,19:52:00,Pos Indonesia,Semarang–Medan,450,Truck,24,1,Sudah diterima sesuai jadwal,neutral
+26,2025-06-05,09:23:00,09:43:00,12:49:00,12:50:00,J&T,Jakarta–Yogyakarta,180,Motorbike,1,1,Paket datang seperti biasanya,neutral
+27,2025-06-01,07:13:00,07:28:00,21:43:00,22:27:00,Pos Indonesia,Semarang–Medan,899,Truck,44,1,Kecewa dengan keterlambatan ini,negative
+28,2025-06-04,07:43:00,08:10:00,09:08:00,09:12:00,TIKI,Jakarta–Bandung,62,Van,4,1,Tidak ada masalah berarti,neutral
+29,2025-06-08,08:53:00,09:19:00,14:21:00,14:11:00,J&T,Jakarta–Bandung,287,Motorbike,-10,0,Pelayanan sangat memuaskan,positive
+30,2025-06-07,08:48:00,09:02:00,13:28:00,14:51:00,JNE,Semarang–Medan,226,Truck,83,1,Buruk sekali pelayanannya,negative
+31,2025-06-06,08:47:00,09:02:00,16:23:00,16:50:00,JNE,Jakarta–Yogyakarta,477,Truck,27,1,Sudah diterima sesuai jadwal,neutral
+32,2025-06-04,09:53:00,10:09:00,18:53:00,20:01:00,TIKI,Bandung–Surabaya,437,Motorbike,68,1,Kecewa dengan keterlambatan ini,negative
+33,2025-06-08,09:52:00,10:02:00,11:23:00,11:54:00,JNE,Jakarta–Bandung,71,Van,31,1,Kecewa dengan keterlambatan ini,negative
+34,2025-06-04,06:18:00,06:28:00,10:17:00,11:30:00,TIKI,Jakarta–Bandung,246,Truck,73,1,Kecewa dengan keterlambatan ini,negative
+35,2025-06-08,06:57:00,07:23:00,20:07:00,21:13:00,TIKI,Jakarta–Bandung,654,Truck,66,1,Paket lama sekali sampai,negative
+36,2025-06-02,06:12:00,06:27:00,08:15:00,08:51:00,J&T,Jakarta–Semarang,109,Truck,36,1,Kecewa dengan keterlambatan ini,negative
+37,2025-06-01,09:14:00,09:32:00,11:20:00,12:33:00,SiCepat,Semarang–Medan,117,Van,73,1,Sangat tidak puas dengan jasa kirimnya,negative
+38,2025-06-01,07:02:00,07:13:00,11:28:00,11:27:00,JNE,Jakarta–Yogyakarta,248,Van,-1,0,Standar pengiriman OK,neutral
+39,2025-06-11,06:58:00,07:24:00,22:19:00,22:38:00,TIKI,Jakarta–Bandung,870,Motorbike,19,1,Pengiriman biasa saja,neutral
+40,2025-06-02,07:54:00,08:15:00,15:10:00,15:36:00,TIKI,Semarang–Medan,327,Motorbike,26,1,Tidak ada masalah berarti,neutral
+41,2025-06-10,06:19:00,06:49:00,10:59:00,12:15:00,J&T,Semarang–Medan,244,Truck,76,1,Kecewa dengan keterlambatan ini,negative
+42,2025-06-01,09:35:00,09:56:00,23:37:00,00:30:00,Pos Indonesia,Jakarta–Bekasi,634,Truck,53,1,Paket lama sekali sampai,negative
+43,2025-06-03,06:54:00,07:04:00,15:32:00,16:14:00,J&T,Jakarta–Bandung,486,Truck,42,1,Kecewa dengan keterlambatan ini,negative
+44,2025-06-11,08:13:00,08:42:00,09:32:00,10:53:00,SiCepat,Jakarta–Semarang,44,Motorbike,81,1,Buruk sekali pelayanannya,negative
+45,2025-06-09,09:02:00,09:12:00,15:52:00,16:13:00,J&T,Jakarta–Yogyakarta,395,Van,21,1,Paket datang seperti biasanya,neutral
+46,2025-06-04,09:03:00,09:32:00,11:18:00,11:56:00,SiCepat,Jakarta–Yogyakarta,82,Truck,38,1,Terlambat tanpa alasan jelas,negative
+47,2025-06-01,08:01:00,08:20:00,22:46:00,22:49:00,SiCepat,Bandung–Surabaya,775,Truck,3,1,Paket datang seperti biasanya,neutral
+48,2025-06-08,07:07:00,07:26:00,19:34:00,20:51:00,J&T,Jakarta–Semarang,789,Motorbike,77,1,Buruk sekali pelayanannya,negative
+49,2025-06-01,09:01:00,09:29:00,16:56:00,16:52:00,J&T,Jakarta–Bekasi,401,Motorbike,-4,0,Pengiriman biasa saja,neutral
+50,2025-06-04,09:52:00,10:17:00,10:57:00,12:22:00,TIKI,Jakarta–Bekasi,37,Motorbike,85,1,Terlambat tanpa alasan jelas,negative
+51,2025-06-05,09:36:00,09:51:00,13:10:00,13:28:00,TIKI,Jakarta–Yogyakarta,210,Truck,18,1,Pengiriman biasa saja,neutral
+52,2025-06-09,09:23:00,09:51:00,23:19:00,00:42:00,Pos Indonesia,Jakarta–Yogyakarta,792,Truck,83,1,Kecewa dengan keterlambatan ini,negative
+53,2025-06-05,08:29:00,08:53:00,09:48:00,09:40:00,J&T,Jakarta–Semarang,59,Truck,-8,0,Suka banget sama pelayanannya!,positive
+54,2025-06-10,06:46:00,07:00:00,11:38:00,12:40:00,SiCepat,Jakarta–Semarang,247,Motorbike,62,1,Sangat tidak puas dengan jasa kirimnya,negative
+55,2025-06-02,07:23:00,07:52:00,19:33:00,20:51:00,JNE,Jakarta–Bekasi,613,Truck,78,1,Paket lama sekali sampai,negative
+56,2025-06-03,07:39:00,07:50:00,21:10:00,21:39:00,TIKI,Jakarta–Bandung,678,Motorbike,29,1,Tidak ada masalah berarti,neutral
+57,2025-06-08,07:22:00,07:44:00,11:45:00,12:52:00,SiCepat,Jakarta–Yogyakarta,210,Truck,67,1,Terlambat tanpa alasan jelas,negative
+58,2025-06-08,07:42:00,08:06:00,03:02:00,02:52:00,J&T,Jakarta–Yogyakarta,895,Motorbike,-10,0,Pelayanan sangat memuaskan,positive
+59,2025-06-02,09:00:00,09:28:00,20:07:00,21:26:00,Pos Indonesia,Bandung–Surabaya,605,Van,79,1,Kecewa dengan keterlambatan ini,negative
+60,2025-06-05,07:42:00,07:54:00,22:07:00,22:14:00,JNE,Jakarta–Yogyakarta,878,Truck,7,1,Paket datang seperti biasanya,neutral
+61,2025-06-09,07:11:00,07:21:00,23:00:00,00:18:00,JNE,Jakarta–Yogyakarta,757,Truck,78,1,Buruk sekali pelayanannya,negative
+62,2025-06-09,06:06:00,06:17:00,15:47:00,16:16:00,JNE,Semarang–Medan,559,Van,29,1,Pengiriman biasa saja,neutral
+63,2025-06-10,06:44:00,07:00:00,15:05:00,15:40:00,TIKI,Jakarta–Bandung,388,Motorbike,35,1,Buruk sekali pelayanannya,negative
+64,2025-06-11,08:18:00,08:35:00,01:04:00,01:11:00,JNE,Jakarta–Semarang,818,Van,7,1,Tidak ada masalah berarti,neutral
+65,2025-06-08,09:33:00,09:58:00,18:41:00,18:58:00,JNE,Jakarta–Bekasi,540,Motorbike,17,1,Paket datang seperti biasanya,neutral
+66,2025-06-09,06:56:00,07:22:00,17:28:00,18:04:00,TIKI,Jakarta–Semarang,623,Truck,36,1,Buruk sekali pelayanannya,negative
+67,2025-06-04,09:03:00,09:13:00,16:58:00,17:26:00,TIKI,Jakarta–Semarang,485,Van,28,1,Pengiriman biasa saja,neutral
+68,2025-06-03,09:38:00,09:51:00,14:59:00,14:44:00,TIKI,Jakarta–Semarang,250,Van,-15,0,Pelayanan sangat memuaskan,positive
+69,2025-06-05,07:14:00,07:34:00,13:09:00,13:26:00,SiCepat,Jakarta–Semarang,316,Motorbike,17,1,Tidak ada masalah berarti,neutral
+70,2025-06-02,09:31:00,10:01:00,19:20:00,20:23:00,J&T,Jakarta–Bekasi,584,Truck,63,1,Kecewa dengan keterlambatan ini,negative
+71,2025-06-11,07:32:00,07:48:00,16:25:00,17:35:00,SiCepat,Bandung–Surabaya,553,Truck,70,1,Kecewa dengan keterlambatan ini,negative
+72,2025-06-08,07:29:00,07:39:00,12:43:00,12:30:00,TIKI,Semarang–Medan,250,Truck,-13,0,Pengiriman aman dan cepat,positive
+73,2025-06-06,06:11:00,06:38:00,21:36:00,22:04:00,JNE,Bandung–Surabaya,809,Truck,28,1,Standar pengiriman OK,neutral
+74,2025-06-01,08:16:00,08:29:00,01:28:00,01:58:00,J&T,Jakarta–Semarang,874,Motorbike,30,1,Paket datang seperti biasanya,neutral
+75,2025-06-03,08:38:00,08:48:00,21:37:00,22:32:00,SiCepat,Jakarta–Yogyakarta,694,Motorbike,55,1,Sangat tidak puas dengan jasa kirimnya,negative
+76,2025-06-10,08:59:00,09:25:00,22:07:00,22:56:00,J&T,Jakarta–Bandung,662,Truck,49,1,Sangat tidak puas dengan jasa kirimnya,negative
+77,2025-06-10,09:59:00,10:13:00,15:48:00,16:42:00,JNE,Jakarta–Semarang,279,Motorbike,54,1,Buruk sekali pelayanannya,negative
+78,2025-06-06,09:03:00,09:26:00,19:56:00,21:18:00,TIKI,Semarang–Medan,517,Van,82,1,Buruk sekali pelayanannya,negative
+79,2025-06-10,06:30:00,06:41:00,17:38:00,18:24:00,Pos Indonesia,Jakarta–Bandung,563,Motorbike,46,1,Paket lama sekali sampai,negative
+80,2025-06-08,06:56:00,07:22:00,16:35:00,17:25:00,TIKI,Jakarta–Bandung,464,Truck,50,1,Paket lama sekali sampai,negative
+81,2025-06-08,07:50:00,08:20:00,13:27:00,13:22:00,SiCepat,Jakarta–Bandung,243,Truck,-5,0,Paket datang seperti biasanya,neutral
+82,2025-06-09,08:39:00,08:54:00,15:04:00,15:32:00,SiCepat,Jakarta–Semarang,328,Truck,28,1,Sudah diterima sesuai jadwal,neutral
+83,2025-06-06,08:54:00,09:15:00,15:04:00,15:46:00,J&T,Jakarta–Bandung,301,Motorbike,42,1,Kecewa dengan keterlambatan ini,negative
+84,2025-06-08,06:59:00,07:13:00,18:16:00,19:37:00,Pos Indonesia,Jakarta–Yogyakarta,556,Truck,81,1,Sangat tidak puas dengan jasa kirimnya,negative
+85,2025-06-06,07:21:00,07:46:00,13:13:00,13:02:00,JNE,Jakarta–Semarang,299,Truck,-11,0,Pelayanan sangat memuaskan,positive
+86,2025-06-01,06:29:00,06:58:00,18:37:00,18:33:00,SiCepat,Jakarta–Yogyakarta,596,Truck,-4,0,Paket datang seperti biasanya,neutral
+87,2025-06-10,06:00:00,06:27:00,11:21:00,11:20:00,Pos Indonesia,Jakarta–Yogyakarta,291,Truck,-1,0,Sudah diterima sesuai jadwal,neutral
+88,2025-06-01,08:02:00,08:17:00,01:25:00,01:20:00,J&T,Jakarta–Bandung,812,Van,-5,0,Paket datang seperti biasanya,neutral
+89,2025-06-11,09:07:00,09:33:00,20:09:00,21:35:00,TIKI,Bandung–Surabaya,525,Van,86,1,Sangat tidak puas dengan jasa kirimnya,negative
+90,2025-06-08,07:04:00,07:26:00,00:28:00,01:03:00,J&T,Jakarta–Semarang,811,Truck,35,1,Sangat tidak puas dengan jasa kirimnya,negative
+91,2025-06-08,08:06:00,08:36:00,22:40:00,23:33:00,JNE,Bandung–Surabaya,744,Truck,53,1,Sangat tidak puas dengan jasa kirimnya,negative
+92,2025-06-04,09:55:00,10:21:00,00:35:00,00:58:00,SiCepat,Jakarta–Yogyakarta,731,Motorbike,23,1,Paket datang seperti biasanya,neutral
+93,2025-06-08,09:03:00,09:30:00,18:09:00,19:33:00,J&T,Jakarta–Semarang,573,Van,84,1,Kecewa dengan keterlambatan ini,negative
+94,2025-06-02,09:04:00,09:34:00,18:56:00,19:17:00,SiCepat,Jakarta–Bandung,551,Van,21,1,Paket datang seperti biasanya,neutral
+95,2025-06-05,08:28:00,08:51:00,18:57:00,20:01:00,JNE,Jakarta–Bandung,570,Motorbike,64,1,Buruk sekali pelayanannya,negative
+96,2025-06-08,09:39:00,09:50:00,14:43:00,16:02:00,J&T,Semarang–Medan,315,Van,79,1,Paket lama sekali sampai,negative
+97,2025-06-11,06:25:00,06:47:00,09:50:00,11:04:00,J&T,Jakarta–Bandung,162,Motorbike,74,1,Paket lama sekali sampai,negative
+98,2025-06-01,07:48:00,08:17:00,20:53:00,20:39:00,J&T,Bandung–Surabaya,717,Motorbike,-14,0,Suka banget sama pelayanannya!,positive
+99,2025-06-02,08:12:00,08:24:00,21:25:00,22:12:00,Pos Indonesia,Jakarta–Bekasi,621,Truck,47,1,Kecewa dengan keterlambatan ini,negative
+100,2025-06-03,08:37:00,08:58:00,18:55:00,19:25:00,SiCepat,Jakarta–Bekasi,610,Motorbike,30,1,Tidak ada masalah berarti,neutral
